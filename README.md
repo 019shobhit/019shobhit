@@ -1,4 +1,4 @@
-![logo](https://github.com/019shobhit/019shobhit/blob/main/Black%20White%20Minimalist%20The%20Best%20Success%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/019shobhit/019shobhit/blob/main/Black%20White%20Minimalist%20The%20Best%20Success%20Quote%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Shobhit Chauhan</h1>
 <h3 align="center">MCA Student from KIET College | Specializing in DSA in Java & Web Technologies</h3>
